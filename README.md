@@ -100,7 +100,7 @@ Run the cells in order to generate the forward diffusion visualizations, calcula
 
 **Question 6:**
 
-Open `HW3-6(1).ipynb`.
+Open `HW3-Q6.ipynb`.
 
 The notebook requires the Prompt-to-Prompt helper files `ptp_utils.py` and `seq_aligner.py`, together with access to the Stable Diffusion v1.4 model.
 
